@@ -1,4 +1,4 @@
-# Code for Image-preprocessing-and-binary-conversion
+# Code for Image preprocessing and binary conversion
 for thesis
 
 clc;
